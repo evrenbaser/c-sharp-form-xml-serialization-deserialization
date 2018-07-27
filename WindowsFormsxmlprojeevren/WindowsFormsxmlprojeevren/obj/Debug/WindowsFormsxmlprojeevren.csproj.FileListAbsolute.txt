@@ -1,0 +1,11 @@
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\bin\Debug\WindowsFormsxmlprojeevren.exe.config
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\bin\Debug\WindowsFormsxmlprojeevren.exe
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\bin\Debug\WindowsFormsxmlprojeevren.pdb
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.csprojAssemblyReference.cache
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.Form1.resources
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.Properties.Resources.resources
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.csproj.GenerateResource.cache
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.exe
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.pdb
+c:\users\user\source\repos\WindowsFormsxmlprojeevren\WindowsFormsxmlprojeevren\obj\Debug\WindowsFormsxmlprojeevren.About.resources
